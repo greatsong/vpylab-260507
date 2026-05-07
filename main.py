@@ -2,7 +2,7 @@ from vpython import *
 
 # 구를 만들고 움직여보세요
 ball = sphere(pos=vector(0, 0, 0), radius=0.5, color=color.cyan)
-ball.velocity = vector(10, 0, 0)
+ball.velocity = vector(10, 10, 0)
 
 dt = 0.01
 while True:
