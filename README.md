@@ -2,21 +2,20 @@
 
 > VPyLab에서 만든 3D Python 작품입니다.
 
-
 ## 빠르게 보기
 
-- 🌐 [GitHub Pages 미리보기](https://greatsong.github.io/vpylab-260507/)
-- ▶️ [VPyLab에서 직접 실행](https://vpylab.vercel.app)
+- 🌐 [GitHub Pages 실행 페이지](https://greatsong.github.io/vpylab-260507/)
+- ▶️ [VPyLab에서 이 코드 실행](https://vpylab.vercel.app/sandbox?repo=greatsong%2Fvpylab-260507&autorun=1)
 
 ## 파일
 
 - `main.py` — 최신 코드 (저장할 때마다 갱신)
 - `history.md` — 저장 시점·메시지·작성자 누적 기록
-- `index.html` — GitHub Pages용 미리보기
+- `index.html` — GitHub Pages용 독립 실행 페이지
 
 ## git log로 이력 보기
 
-```
+```bash
 git log --oneline -- main.py
 ```
 
